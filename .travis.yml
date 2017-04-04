@@ -10,6 +10,8 @@ gemfile:
   - "gemfiles/activerecord40.gemfile"
   - "gemfiles/activerecord41.gemfile"
   - "gemfiles/activerecord42.gemfile"
+  - "gemfiles/activerecord50.gemfile"
+  - "gemfiles/activerecord51.gemfile"
 
 before_install:
   - gem install bundler
